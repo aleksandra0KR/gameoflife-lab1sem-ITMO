@@ -1,0 +1,1 @@
+# gameoflife-lab1sem-ITMO
